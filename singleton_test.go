@@ -1,4 +1,4 @@
-// Copyright (C) 2023 neocotic
+// Copyright (C) 2023-2026 airmrcr
 //
 // Permission is hereby granted, free of charge, to any person obtaining a copy
 // of this software and associated documentation files (the "Software"), to deal
@@ -23,9 +23,10 @@ package sets
 import (
 	"encoding/json"
 	"errors"
-	"github.com/google/go-cmp/cmp"
-	"github.com/neocotic/go-sets/internal"
 	"testing"
+
+	"github.com/airmrcr/go-sets/internal"
+	"github.com/google/go-cmp/cmp"
 )
 
 func Test_Singleton(t *testing.T) {

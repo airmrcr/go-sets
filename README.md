@@ -1,9 +1,9 @@
 # go-sets
 
-[![Go Reference](https://img.shields.io/badge/go.dev-reference-007d9c?style=for-the-badge&logo=go&logoColor=white)](https://pkg.go.dev/github.com/neocotic/go-sets)
-[![Build Status](https://img.shields.io/github/actions/workflow/status/neocotic/go-sets/ci.yml?style=for-the-badge)](https://github.com/neocotic/go-sets/actions/workflows/ci.yml)
-[![Release](https://img.shields.io/github/v/release/neocotic/go-sets?style=for-the-badge)](https://github.com/neocotic/go-sets)
-[![License](https://img.shields.io/github/license/neocotic/go-sets?style=for-the-badge)](https://github.com/neocotic/go-sets/blob/main/LICENSE.md)
+[![Go Reference](https://img.shields.io/badge/go.dev-reference-007d9c?style=for-the-badge&logo=go&logoColor=white)](https://pkg.go.dev/github.com/airmrcr/go-sets)
+[![Build Status](https://img.shields.io/github/actions/workflow/status/airmrcr/go-sets/ci.yml?style=for-the-badge)](https://github.com/airmrcr/go-sets/actions/workflows/ci.yml)
+[![Release](https://img.shields.io/github/v/release/airmrcr/go-sets?style=for-the-badge)](https://github.com/airmrcr/go-sets)
+[![License](https://img.shields.io/github/license/airmrcr/go-sets?style=for-the-badge)](https://github.com/airmrcr/go-sets/blob/main/LICENSE.md)
 
 Easy-to-use generic set collections for Go (golang).
 
@@ -24,18 +24,18 @@ is available for concurrent use without requiring additional locking or coordina
 Install using [go install](https://go.dev/ref/mod#go-install):
 
 ``` sh
-go install github.com/neocotic/go-sets
+go get github.com/airmrcr/go-sets
 ```
 
 Then import the package into your own code:
 
 ``` go
-import "github.com/neocotic/go-sets"
+import "github.com/airmrcr/go-sets"
 ```
 
 ## Documentation
 
-Documentation is available on [pkg.go.dev](https://pkg.go.dev/github.com/neocotic/go-sets#section-documentation). It
+Documentation is available on [pkg.go.dev](https://pkg.go.dev/github.com/airmrcr/go-sets#section-documentation). It
 contains an overview and reference.
 
 ### Example
@@ -90,18 +90,18 @@ There's many more functions available to explore!
 ## Issues
 
 If you have any problems or would like to see changes currently in development you can do so
-[here](https://github.com/neocotic/go-sets/issues).
+[here](https://github.com/airmrcr/go-sets/issues).
 
 ## Contributors
 
 If you want to contribute, you're a legend! Information on how you can do so can be found in
-[CONTRIBUTING.md](https://github.com/neocotic/go-sets/blob/main/CONTRIBUTING.md). We want your suggestions and pull
+[CONTRIBUTING.md](https://github.com/airmrcr/go-sets/blob/main/CONTRIBUTING.md). We want your suggestions and pull
 requests!
 
-A list of contributors can be found in [AUTHORS.md](https://github.com/neocotic/go-sets/blob/main/AUTHORS.md).
+A list of contributors can be found in [AUTHORS.md](https://github.com/airmrcr/go-sets/blob/main/AUTHORS.md).
 
 ## License
 
-Copyright © 2023 neocotic
+Copyright © 2023-2026 airmrcr
 
-See [LICENSE.md](https://github.com/neocotic/go-sets/raw/main/LICENSE.md) for more information on our MIT license.
+See [LICENSE.md](https://github.com/airmrcr/go-sets/raw/main/LICENSE.md) for more information on our MIT license.

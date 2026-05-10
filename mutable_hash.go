@@ -1,4 +1,4 @@
-// Copyright (C) 2023 neocotic
+// Copyright (C) 2023-2026 airmrcr
 //
 // Permission is hereby granted, free of charge, to any person obtaining a copy
 // of this software and associated documentation files (the "Software"), to deal
@@ -23,7 +23,8 @@ package sets
 import (
 	"encoding/json"
 	"fmt"
-	"github.com/neocotic/go-sets/internal"
+
+	"github.com/airmrcr/go-sets/internal"
 )
 
 // MutableHashSet is an implementation of MutableSet that contains a unique data set.

@@ -1,4 +1,4 @@
-// Copyright (C) 2023 neocotic
+// Copyright (C) 2023-2026 airmrcr
 //
 // Permission is hereby granted, free of charge, to any person obtaining a copy
 // of this software and associated documentation files (the "Software"), to deal
@@ -23,10 +23,11 @@ package sets
 import (
 	"encoding/json"
 	"errors"
+	"testing"
+
+	"github.com/airmrcr/go-sets/internal"
 	"github.com/google/go-cmp/cmp"
 	"github.com/google/go-cmp/cmp/cmpopts"
-	"github.com/neocotic/go-sets/internal"
-	"testing"
 )
 
 func Test_MutableHash(t *testing.T) {

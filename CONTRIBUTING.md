@@ -1,9 +1,9 @@
 # Contributing
 
-If you have any questions about [go-sets](https://github.com/neocotic/go-sets) please feel free to
-[raise an issue](https://github.com/neocotic/go-sets/issues/new).
+If you have any questions about [go-sets](https://github.com/airmrcr/go-sets) please feel free to
+[raise an issue](https://github.com/airmrcr/go-sets/issues/new).
 
-Please [search existing issues](https://github.com/neocotic/go-sets/issues) for the same feature and/or issue before
+Please [search existing issues](https://github.com/airmrcr/go-sets/issues) for the same feature and/or issue before
 raising a new issue. Commenting on an existing issue is usually preferred over raising duplicate issues.
 
 Please ensure that all files conform to the coding standards, using the same coding style as the rest of the code base.
@@ -20,5 +20,5 @@ You must have at least [Golang](https://go.dev) version 1.20 or newer installed.
 
 All pull requests should be made to the `main` branch.
 
-Don't forget to add your details to the list of [AUTHORS.md](https://github.com/neocotic/go-sets/blob/main/AUTHORS.md)
+Don't forget to add your details to the list of [AUTHORS.md](https://github.com/airmrcr/go-sets/blob/main/AUTHORS.md)
 if you want your contribution to be recognized by others.

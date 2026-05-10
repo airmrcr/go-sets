@@ -1,4 +1,4 @@
-// Copyright (C) 2023 neocotic
+// Copyright (C) 2023-2026 airmrcr
 //
 // Permission is hereby granted, free of charge, to any person obtaining a copy
 // of this software and associated documentation files (the "Software"), to deal
@@ -21,10 +21,11 @@
 package sets
 
 import (
-	"github.com/neocotic/go-sets/internal"
-	"golang.org/x/exp/constraints"
 	"strconv"
 	"strings"
+
+	"github.com/airmrcr/go-sets/internal"
+	"golang.org/x/exp/constraints"
 )
 
 const (
